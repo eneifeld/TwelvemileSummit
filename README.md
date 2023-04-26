@@ -5,6 +5,9 @@ Spring 2023
 Ellie Neifeld
 eneifeld@arizona.edu
 
+These tree-ring data were collected in summer 2022 and span 1601CE-2021CE. The chronology was truncated at >4 cores, at 1683CE.
+These analyses attempt to investigate the relationship between climate and Tree-ring width at this site.
+
 #### The best scripts are HighFreqAugustPrecip.R and Quantiles.R. Earlier scripts are a bit more chaotic
 
 Order in which scripts were written:
