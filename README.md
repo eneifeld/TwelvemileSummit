@@ -5,6 +5,8 @@ Spring 2023
 Ellie Neifeld
 eneifeld@arizona.edu
 
+#### The best scripts are HighFreqAugustPrecip.R and Quantiles.R. Earlier scripts are a bit more chaotic
+
 Order in which scripts were written:
 1.	Precip_2_csv.R
   •	 Extracts the precipitation data for the Twlevemile summit gridpoint from the CRU netcdf file and writes the info to a csv. The same was done for temperature.
@@ -26,4 +28,3 @@ Order in which scripts were written:
 •	Correlates the residual chronology and June Temperature for each quantile and makes a bar plot
 •	Does the same for the signal-free chronology and the spline-detrended chronology
 •	Makes a scatterplot to investigate whether there is a temperature threshold.
-![image](https://user-images.githubusercontent.com/122911478/234424091-8cde377c-6c63-48be-8420-3d7ca37406a7.png)
