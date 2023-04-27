@@ -31,3 +31,5 @@ Order in which scripts were written:
 •	Correlates the residual chronology and June Temperature for each quantile and makes a bar plot
 •	Does the same for the signal-free chronology and the spline-detrended chronology
 •	Makes a scatterplot to investigate whether there is a temperature threshold.
+8. Figures_for_paper.R
+-makes the figures for the final assignment in more concise way
