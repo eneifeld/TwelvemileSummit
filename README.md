@@ -29,7 +29,7 @@ Approximate order in which scripts were written + descriptions:
 •	High-pass filters June temperature and August precipitation data
 8.	Zscore_residual.R
 •	Finds the zscore of high-pass filtered June temperature and the residual chronology in order to plot on same graph
-9.	HighFrequencyCorrelations.R
+9.	HighFrequencyCorrelations.R 
 •	Moving window correlations of high-pass filtered June temperature data and the residual chronology. Also gets the zscores and plots the zscores.
 •	Sets up data to plot in ggplot
 10.	HighFreqAugustPrecip.R
